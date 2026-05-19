@@ -1,5 +1,5 @@
 # Netflix Landing Page Clone
-A Netflix-inspired landing page built with pure HTML & CSS.
+- A Netflix-inspired landing page built with pure HTML & CSS.
 
 ## Features
 - Fixed navbar with logo + Sign In button
